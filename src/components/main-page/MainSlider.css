@@ -1,0 +1,61 @@
+.slider {
+  padding: 104px 82px 104px 78px;
+}
+
+.slider__item {
+  height: 448px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-left: 169px;
+  padding-right: 69px;
+  box-sizing: border-box;
+}
+
+.slider__main-image {
+  display: block;
+  height: 340px;
+  width: 340px;
+  align-self: center;
+}
+
+.slider__text-content-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 540px;
+}
+
+.slider__content-icon {
+  width: 64px;
+  height: 64px;
+  background-image: url('../../images/quote-icon.svg');
+  margin-bottom: 34px;
+}
+
+.slider__text {
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.5;
+  color: #343434;
+  margin-bottom: 30px;
+}
+
+.slider__author {
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.5;
+  color: #343434;
+}
+
+.slick-arrow {
+  width: 16px;
+  height: 32px;
+  position: absolute;
+  cursor: pointer;
+}
+
+.slick-arrow:hover {
+  opacity: .7;
+}

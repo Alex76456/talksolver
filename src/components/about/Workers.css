@@ -1,0 +1,31 @@
+.workers__list {
+  list-style: none;
+  padding: 150px 0 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 460px);
+  grid-template-rows: repeat(2, 588px);
+  gap: 60px;
+  justify-content: center;
+}
+
+.workers__card {
+  border: 1px solid #5200D7;
+  padding: 30px 65px;
+}
+
+.workers__card-name {
+  margin: 15px 0;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  color: #343434;
+}
+
+.workers__card-description {
+  margin: 0;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #858585;
+}

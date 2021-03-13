@@ -1,0 +1,28 @@
+.censor__output-container {
+  max-width: 540px;
+  min-width: 540px;
+  min-height: 360px;
+  max-height: 360px;
+  box-shadow: 0 4px 4px rgba(51, 51, 51, 0.04), 0 4px 16px rgba(51, 51, 51, 0.08);
+  border-radius: 10px;
+  box-sizing: border-box;
+  background-color: #fff;
+  padding: 20px 15px;
+}
+
+.censor__output-output-author {
+  font-family: Montserrat, serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #343434;;
+}
+
+.censor__output-output-text{
+  font-family: Montserrat, serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.7;
+  white-space: pre;
+  color: #343434;
+}

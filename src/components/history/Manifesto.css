@@ -1,0 +1,55 @@
+.manifesto {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.manifesto__flower {
+  position: absolute;
+  bottom: 100px;
+  z-index: -1;
+}
+
+.manifesto__title {
+  margin: 0;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 44px;
+  text-align: center;
+  letter-spacing: 0.1px;
+  color: #343434;
+}
+
+.manifesto__list {
+  max-width: 950px;
+  list-style: none;
+  padding: 30px 0 100px;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, minmax(min-content, max-content));
+  grid-auto-flow: column;
+  row-gap: 30px;
+  column-gap: 220px;
+}
+
+.manifesto__subtitle {
+  margin: 0 0 12px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1px;
+  font-feature-settings: "liga";
+  color: #343434;
+
+}
+
+.manifesto__description {
+  margin: 0;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.3px;
+  color: #858585;
+}
