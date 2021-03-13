@@ -2,8 +2,8 @@
 
 ### Мы команда TalkSolveR. По новому закону 2025 года, для защиты общественной нравственности к рассмотрению в какую-либо службу принимаются только обращения, написанные цитатами поэтов-классиков. Для этого мы создали данное приложение.
 
-<img src="./public/pre1.png" width="50%"><img src="./public/pre2.png" width="50%">
-<img src="./public/pre3.png" width="50%"><img src="./public/pre4.png" width="50%">
+<img src="./public/pre1.png" width="50%"><img src="./public/pre4.png" width="50%">
+<img src="./public/pre3.png" width="50%"><img src="./public/pre2.png" width="50%">
 <img src="./public/pre5.png" width="50%"><img src="./public/pre6.png" width="50%">
 
 
