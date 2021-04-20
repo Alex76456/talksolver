@@ -13,6 +13,8 @@
 
 Алексей Логвенкин 
 
+### [Бриф Хакатона 2025: «Гражданин-поэт»](https://www.notion.so/2025-c8543acca3bb411c88734a322cd3de0f)
+
 ### [Ссылка на проект](https://delightvlg.github.io/talksolver/)
 
 ### [Макет FIGMA](https://www.figma.com/file/CiSXP9BagAKU0K5lKumtID/hackathon_2025?node-id=238%3A4116)
